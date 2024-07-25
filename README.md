@@ -2,6 +2,8 @@
 
 Este documento fornece instruções detalhadas sobre a manutenção do código do sistema de navegação de tabs em um aplicativo Ionic.
 
+----
+
 #### Estrutura de Tabs no Ionic
 
 O arquivo `tabs.page.html` define a estrutura das tabs do aplicativo, utilizando componentes do Ionic. As tabs são exibidas na parte inferior da tela e mudam conforme o status de login do usuário. 
