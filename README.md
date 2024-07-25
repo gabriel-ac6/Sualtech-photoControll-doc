@@ -1,5 +1,5 @@
 
-![Ionic Logo](https://www.clipartmax.com/png/middle/292-2928098_ionic-logo-ionic-framework.png)
+![Ionic Logo](images/logo.png)
 
 ---
 
