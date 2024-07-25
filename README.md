@@ -1,4 +1,5 @@
-Claro! Aqui está um exemplo de um arquivo `README.md` para a inicialização de um aplicativo Ionic. Esse guia cobre os passos básicos para configurar e iniciar o aplicativo, além de fornecer informações adicionais sobre o projeto.
+
+![Ionic Logo](assets/images/ionic-logo.png)
 
 ---
 
